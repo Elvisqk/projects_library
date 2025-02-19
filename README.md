@@ -4,5 +4,5 @@
 通过该库，你可以了解到与本人有关的所有项目的概况，并能找到相应的项目
 
 # project01
-link：https://github.com/Elvisqk/OS-curriculum-design.git
+link：https://github.com/Elvisqk/OS-curriculum-design.git 
 background：该项目为山东大学-计算机科学与技术学院-操作系统课程设计(必修课)的最终提交版本

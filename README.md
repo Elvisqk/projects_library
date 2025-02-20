@@ -5,6 +5,6 @@
 # project01：操作系统课程设计
 link：https://github.com/Elvisqk/OS-curriculum-design.git  
 background：该项目为山东大学-计算机科学与技术学院-操作系统课程设计(必修课)的最终提交版本
-# project：嵌入式系统原理与应用(实验)
+# project02：嵌入式系统原理与应用(实验)
 link：https://github.com/Elvisqk/embedded-system-experiment.git
 background：该项目为山东大学-计算机科学与技术学院-嵌入式系统原理与应用的实验内容
